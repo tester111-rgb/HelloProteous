@@ -8,16 +8,16 @@ https://www.theengineeringprojects.com/2015/12/arduino-library-proteus-simulatio
 3.ลง libraries esp32
 https://drive.google.com/uc?export=download&id=1jkv8w9uODLWREVPJMiFKMuYvQKX4Tbx6
 
-3.เมื่อ Download เสร็จแล้วจะได้ไฟล์ตามภาพ ให้ทำการแตกไฟล์
+4.เมื่อ Download เสร็จแล้วจะได้ไฟล์ตามภาพ ให้ทำการแตกไฟล์
 
-4. เมื่อแตกไฟล์ ให้ copy ทั้งหมด ไปไว้ที่>>C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional>>>library
+5. เมื่อแตกไฟล์ ให้ copy ทั้งหมด ไปไว้ที่>>C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional>>>library
 
-5. การ upload Proteous ขึ้น Gibhub
-  เปิด Git Bash
+6. การ upload Proteous ขึ้น Gibhub
+  6.1 เปิด Git Bash
 
-  คำสั่ง cd ตามด้วย path ที่อยู่ของ folder เช่น cd "c;xxxxxxxx"
+  6.2 คำสั่ง cd ตามด้วย path ที่อยู่ของ folder เช่น cd "c;xxxxxxxx"
  
-  git init >> git add . >> git commit -m "xxxx" >> git remote add origin https://github.com/xxxxx.git > git remote -v > git push –-all origin
+  6.3 git init >> git add . >> git commit -m "xxxx" >> git remote add origin https://github.com/xxxxx.git > git remote -v > git push –-all origin
 
 
 
