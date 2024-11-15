@@ -15,6 +15,7 @@ https://drive.google.com/uc?export=download&id=1jkv8w9uODLWREVPJMiFKMuYvQKX4Tbx6
 4. เมื่อแตกไฟล์ ให้ copy ทั้งหมด ไปไว้ที่>>C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional>>>library
 
 ตั้งชื่อ 001MultiLED
+
 ช่วง 1 เปิด LED ทั้งหมด (1S)
 ช่วง 2 LED 1 และ 2 ติด (1S)
 ช่วง 3 ไฟกระพริบ (2S)
