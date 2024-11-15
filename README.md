@@ -13,3 +13,4 @@ https://drive.google.com/uc?export=download&id=1jkv8w9uODLWREVPJMiFKMuYvQKX4Tbx6
 การ upload Proteous ขึ้น Gibhub
 เปิด Git Bash
 คำสั่ง cd ตามด้วย path ที่อยู่ของ folder
+
