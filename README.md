@@ -18,9 +18,9 @@ https://drive.google.com/uc?export=download&id=1jkv8w9uODLWREVPJMiFKMuYvQKX4Tbx6
 
 ช่วง 1 เปิด LED ทั้งหมด (1S)
 
-ช่วง 2 LED 1 และ 2 ติด (1S)
+ช่วง 2 LED 1 และ 2 ติด  LED 3 และ 4 ดับ(1S)
 
-ช่วง 3 ไฟกระพริบ (2S)
+ช่วง 3 ไฟกระพริบ (1S)
 
 
 
