@@ -31,4 +31,16 @@ https://drive.google.com/uc?export=download&id=1jkv8w9uODLWREVPJMiFKMuYvQKX4Tbx6
 เปิด Git Bash
 
 คำสั่ง cd ตามด้วย path ที่อยู่ของ folder
+git init 
+git remote add origin https://xxxx
+git add 
+commit git commit -m "Add Proteus project files" 
+git push --all origin main
+
+
+
+
+
+
+
 
